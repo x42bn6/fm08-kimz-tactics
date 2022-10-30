@@ -22,30 +22,6 @@ kimz released several tactics.  Over the years, I believe that not all of them a
 
 - 1.0
 - 1.1
-# Football Manager 2008 kimz tactics
-
-Back in Football Manager 2008, a number of exploit tactics were released.  Over the years I've been experimenting with one in particular - one by the author kimz.  [Here](https://community.sigames.com/forums/topic/13906-kimz-802-tactic-with-no-tweak-at-all-the-best-tactic-for-fm08-rate-it/) is one of the threads that describes it.
-
-Over the years, however, link rot has set in, and the tactics have since been lost.  This repository aims to not just rehost them, but also talk about them, and also show the improvements I've made to them.
-
-## What are the kimz tactics?
-
-kimz tactics are a set of exploit tactics for Football Manager 2008.  This match engine was, bluntly, not very good, especially by modern Football Manager standards.  It also had a number of exploits that could be employed, which kimz tactics exploit.
-
-The tactic is not quite as effective as, say, [Championship Manager 01/02's Diablo tactic](https://fm-base.co.uk/threads/diablo-tactic-what-did-it-look-like.132821/), nor the [three-striker tactic in Football Manager 2012](https://www.fmscout.com/a-fm12-tactic-4-1-2-3-engine-exploiter-by-hazaa22299.html), but it is still effective nevertheless.
-
-kimz tactics all have the same pattern:
-
-- They involve what would be called inverted full-backs in modern-day Football Manager.  In Football Manager 2008, however, they are extremely strong, because the match engine is usually not able to exploit the space left behind, assuming you're not far weaker than your opponent.
-- With arrows, they can pull centre-backs out of position, for an attacking midfielder or other striker to slip into the space left behind for a free key pass into space.
-- A corner exploit is used as a cherry on the cake, turning saves into further easy shots on goal.
-
-kimz tactics are also very offensive.  Despite this, they are quite good at not conceding goals - although they are achieved by bludgeoning the opposition into submission until they stop attacking.  This tactic can and will concede goals if you are far inferior, or have the wrong players.
-
-kimz released several tactics.  Over the years, I believe that not all of them are necessary, nor do I have all of them available.  Here's a list of the versions they released:
-
-- 1.0
-- 1.1
 - 2.0
 - 2.1
 - 2.2
@@ -165,6 +141,8 @@ Your best centre-back (aerially) should be on the right.  Feel free to swap set-
 
 ### kimz
 
+![kimz](kimz.png)
+
 This tactic should be the default.  It will work for most games, although some of the other tactics may work better than others in some cases.
 
 Consider switching if:
@@ -175,6 +153,8 @@ Consider switching if:
 - The opponent is playing a back three without wing-backs - switch to "kimz, vs. 3"
 
 ### kimz, left bias
+
+![kimz](kimz left bias.png)
 
 This tactic should be employed if you're struggling to get the ball to your front 5.  This is caused when the opponent presses high.
 
@@ -192,6 +172,8 @@ Consider switching if:
 
 ### kimz, full press
 
+![kimz](kimz full press.png)
+
 This should only be employed against the dreaded 3-3-2-1-1 tactic, or if you are massively superior, or if you really need a goal.
 
 The 3-3-2-1-1 is the AI's most defensive tactic, and it is a nightmare to crack, even for this tactic.  If you use "kimz" or "kimz, left bias" against this, you'll find that it is defensively overkill.  When the opponent has the ball, they will attack with 2 (AMC and ST), but you will have 7 players back (back 4, MC, FL, and FR).  You simply don't need this.  You do need players to move the ball forwards from full-back, but you don't need the wingers to track back.  Thus this tactic forgoes most defensive activity.  With the wingers no longer tracking back, they effectively mark the opposition full-backs, reducing the number of safe defensive passing options for the opposition.  With the full-backs being converted to wing-backs, this means they start higher-up the pitch.  Players also run with the ball more often, as there's going to be acres of space.
@@ -202,6 +184,8 @@ You can downgrade to less-extreme variants if you wish, but I personally take th
 
 ### kimz, full press (vs. no forwards)
 
+![kimz](kimz full press vs no forwards.png)
+
 This is an extreme version where the wing-backs in "kimz, full press" are flipped into attacking midfielders that track back to wing-back, rather than wing-backs that run forwards to attacking midfield.  This is should be only employed if the opponent is down to 9 men and has no strikers.  In this case, even "kimz, full press" is defensively overkill (the opponent attacks with 0 players, and you defend with 4).
 
 Despite being defensively overkill, however, "kimz, full press" does not compress so many players into the centre of the pitch, so it might actually create more goals.  I've left this tactic ("kimz, full press (vs. no forwards)") uploaded just in case you need to truly overload an opponent.
@@ -209,6 +193,8 @@ Despite being defensively overkill, however, "kimz, full press" does not compres
 I still recommend two centre-backs because the AI sometimes plays 4-4-0, and a pacy winger can sometimes cause you some grief in a 1v1 situation.  Nevertheless, it is technically possible to make this even more aggressive, with one centre-back, promoting the other centre-back to defensive midfield (skew right, backwards arrow to centre-back), with always running with the ball.  I do think this is sub-optimal, however, because this player ends up with the ball a lot, and might be tempted to whip crosses in, but it makes little sense when the opponent is defending deep.
 
 ### kimz, vs. 3
+
+![kimz](kimz vs 3.png)
 
 This is not an extreme version of "kimz".  It is a different variation that should only be employed when the opponent has a back three, no full-backs, and no wing-backs (e.g. 3-4-3 with ML and MR).
 
