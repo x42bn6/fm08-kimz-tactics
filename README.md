@@ -42,16 +42,16 @@ I have also made some small tweaks to the order of positions.  kimz's original t
 
 I recommend the following flowchart:
 
-1. The default strategy you should use is "kimz".  This is a tactic based on the original kimz 4.0 tactic.
-2. "kimz, left bias" should be used when the opponent is able to press deep and your full-backs and central midfielder are unable to pass the ball forwards with ease.  This is a small tweak to the first tactic, where the central midfielder is positioned to the left, and the left full-back performs fewer forward runs, and runs with the ball often.  This encourages the left-back to dribble into more forward positions to find players.  This is a riskier tactic since your left-back can be tackled more-easily and lose the ball.
-3. "kimz, full press" is an extremely aggressive version of "kims, left bias".  This tactic applies the same left-back instructions to the right-back, and several players are told to run with the ball more often.  The full-backs are now wing-backs, and the wide forwards (FL/FR) no longer track back.  You should only apply this tactic against extremely weak sides, or when you're chasing a game, or when you are up against the dreaded 3-3-2-1-1 AI tactic (details below).
-4. "kimz, full press (vs. no forwards)" is an even more aggressive variation, and more of a meme than anything.  As the name suggests, employ this when the enemy is down to 9 men and has no forwards.  The wing-backs are now attacking midfielders that track back to wing-back positions, ensuring they start up the pitch instead.  You end up with an 8v8 matchup on their side of the pitch, with your two centre-backs in reserve.  It's technically possible to become even more aggressive, by promoting one of your centre-backs to a defensive midfielder with a backwards-arrow (and run frequently), but I find (albeit with a very small sample size) this creates more issues because this defensive midfielder will hold the ball very often and be tempted to dribble wide.  The key to this tactic, however, is the centre of the pitch.
+1. The default strategy you should use is "[kimz](#kimz)".  This is a tactic based on the original kimz 4.0 tactic.
+2. "[kimz, left bias](#kimz-left-bias)" should be used when the opponent is able to press deep and your full-backs and central midfielder are unable to pass the ball forwards with ease.  This is a small tweak to the first tactic, where the central midfielder is positioned to the left, and the left full-back performs fewer forward runs, and runs with the ball often.  This encourages the left-back to dribble into more forward positions to find players.  This is a riskier tactic since your left-back can be tackled more-easily and lose the ball.
+3. "[kimz, full press](#kimz-full-press)" is an extremely aggressive version of "kims, left bias".  This tactic applies the same left-back instructions to the right-back, and several players are told to run with the ball more often.  The full-backs are now wing-backs, and the wide forwards (FL/FR) no longer track back.  You should only apply this tactic against extremely weak sides, or when you're chasing a game, or when you are up against the dreaded 3-3-2-1-1 AI tactic (details below).
+4. "[kimz, full press (vs. no forwards)](#kimz-full-press-vs-no-forwards)" is an even more aggressive variation, and more of a meme than anything.  As the name suggests, employ this when the enemy is down to 9 men and has no forwards.  The wing-backs are now attacking midfielders that track back to wing-back positions, ensuring they start up the pitch instead.  You end up with an 8v8 matchup on their side of the pitch, with your two centre-backs in reserve.  It's technically possible to become even more aggressive, by promoting one of your centre-backs to a defensive midfielder with a backwards-arrow (and run frequently), but I find (albeit with a very small sample size) this creates more issues because this defensive midfielder will hold the ball very often and be tempted to dribble wide.  The key to this tactic, however, is the centre of the pitch.
 
 Collectively, I will refer to this as the **standard** tactics.
 
 There is one more tactic, specific to 3 at the back, with no wing-backs:
 
-5. "kimz, vs 3" is based on the original kimz 3.0 tactic.  This tactic has a very specific purpose - against tactics that have 3 at the back, and no wing-backs.  The wingers in this tactic will exploit the spaces on the wings ruthlessly.  "kimz" might still work fine against such a formation, but I find "kimz, vs. 3" tends to work better on average.
+5. "[kimz, vs 3](#kimz-vs-3)" is based on the original kimz 3.0 tactic.  This tactic has a very specific purpose - against tactics that have 3 at the back, and no wing-backs.  The wingers in this tactic will exploit the spaces on the wings ruthlessly.  "kimz" might still work fine against such a formation, but I find "kimz, vs. 3" tends to work better on average.
 
 ## How does each player play?  What attributes do they need?
 
@@ -147,10 +147,10 @@ This tactic should be the default.  It will work for most games, although some o
 
 Consider switching if:
 
-- The opponent is weaker, but still able to press high-up to the extent that your full-backs and central midfielder struggle to pass forwards - switch to "kimz, left bias"
+- The opponent is weaker, but still able to press high-up to the extent that your full-backs and central midfielder struggle to pass forwards - switch to "[kimz, left bias](#kimz-left-bias)"
   - In commentary-only view, you will see this manifest if your back 5 have large numbers of passes, but your front 5 are starved
-- The opponent switches to 3-3-2-1-1 - switch to "kimz, full press"
-- The opponent is playing a back three without wing-backs - switch to "kimz, vs. 3"
+- The opponent switches to 3-3-2-1-1 - switch to "[kimz, full press](#kimz-full-press)"
+- The opponent is playing a back three without wing-backs - switch to "[kimz, vs. 3](#kimz-vs-3)"
 
 ### kimz, left bias
 
@@ -166,9 +166,9 @@ Why did I choose the left-back?  This is because Football Manager 2008 has a 4-4
 
 Consider switching if:
 
-- This feels too aggressive - consider going back to "kimz", or if you ran into problems getting the ball forwards previously, consider switching to "kimz, vs. 3", and move back to this tactic if you score a few goals (in the hope that the opposition stops pressing as much)
-- You think you can turn the screw even further - switch to "kimz, full press"
-- You're still struggling to pass the ball forwards - you need better players.  But consider "kimz, vs. 3" - this overloads the midfield differently, so you might get more joy with the AI marking different players.
+- This feels too aggressive - consider going back to "kimz", or if you ran into problems getting the ball forwards previously, consider switching to "[kimz, vs. 3](#kimz-vs-3)", and move back to this tactic if you score a few goals (in the hope that the opposition stops pressing as much)
+- You think you can turn the screw even further - switch to "[kimz, full press](#kimz-full-press)"
+- You're still struggling to pass the ball forwards - you need better players.  But consider "[kimz, vs. 3](#kimz-vs-3)" - this overloads the midfield differently, so you might get more joy with the AI marking different players.
 
 ### kimz, full press
 
