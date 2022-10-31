@@ -141,7 +141,7 @@ Your best centre-back (aerially) should be on the right.  Feel free to swap set-
 
 ### kimz
 
-![kimz](kimz.png)
+<img src="https://raw.githubusercontent.com/x42bn6/fm08-kimz-tactics/main/kimz.png" alt="kimz" />
 
 This tactic should be the default.  It will work for most games, although some of the other tactics may work better than others in some cases.
 
@@ -154,7 +154,7 @@ Consider switching if:
 
 ### kimz, left bias
 
-![kimz](kimz left bias.png)
+<img src="https://raw.githubusercontent.com/x42bn6/fm08-kimz-tactics/main/kimz%20left%20bias.png" alt="kimz, left bias" />
 
 This tactic should be employed if you're struggling to get the ball to your front 5.  This is caused when the opponent presses high.
 
@@ -172,7 +172,7 @@ Consider switching if:
 
 ### kimz, full press
 
-![kimz](kimz full press.png)
+<img src="https://raw.githubusercontent.com/x42bn6/fm08-kimz-tactics/main/kimz%20full%20press.png" alt="kimz, full press" />
 
 This should only be employed against the dreaded 3-3-2-1-1 tactic, or if you are massively superior, or if you really need a goal.
 
@@ -184,7 +184,7 @@ You can downgrade to less-extreme variants if you wish, but I personally take th
 
 ### kimz, full press (vs. no forwards)
 
-![kimz](kimz full press vs no forwards.png)
+<img src="https://raw.githubusercontent.com/x42bn6/fm08-kimz-tactics/main/kimz%20full%20press%20vs%20no%20forwards.png" alt="kimz, full press (vs. no forwards)" />
 
 This is an extreme version where the wing-backs in "kimz, full press" are flipped into attacking midfielders that track back to wing-back, rather than wing-backs that run forwards to attacking midfield.  This is should be only employed if the opponent is down to 9 men and has no strikers.  In this case, even "kimz, full press" is defensively overkill (the opponent attacks with 0 players, and you defend with 4).
 
@@ -194,7 +194,7 @@ I still recommend two centre-backs because the AI sometimes plays 4-4-0, and a p
 
 ### kimz, vs. 3
 
-![kimz](kimz vs 3.png)
+<img src="https://raw.githubusercontent.com/x42bn6/fm08-kimz-tactics/main/kimz%20vs%203.png" alt="kimz, vs. 3" />
 
 This is not an extreme version of "kimz".  It is a different variation that should only be employed when the opponent has a back three, no full-backs, and no wing-backs (e.g. 3-4-3 with ML and MR).
 
