@@ -112,7 +112,7 @@ There is a somewhat-hidden factor this position.  It's possible to get world-cla
 - If you find a player is scoring at a rate of above 1 goal per game, consider persisting with them.
 - If you have a world-class player that isn't hitting above 1 goal per game, consider "demoting" them to striker.
 
-Players in this role should be at least saccomplished at both AMC and ST.  These players are, of course, possible to be played as a striker in any of these formations as you see fit.
+Players in this role should be at least accomplished at both AMC and ST.  These players are, of course, possible to be played as a striker in any of these formations as you see fit.
 
 ### Strikers
 
