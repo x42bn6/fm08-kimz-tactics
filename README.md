@@ -47,7 +47,7 @@ I recommend the following flowchart:
 3. "[kimz, full press](#kimz-full-press)" is an extremely aggressive version of "kims, left bias".  This tactic applies the same left-back instructions to the right-back, and several players are told to run with the ball more often.  The full-backs are now wing-backs, and the wide forwards (FL/FR) no longer track back.  You should only apply this tactic against extremely weak sides, or when you're chasing a game, or when you are up against the dreaded 3-3-2-1-1 AI tactic (details below).
 4. "[kimz, full press (vs. no forwards)](#kimz-full-press-vs-no-forwards)" is an even more aggressive variation, and more of a meme than anything.  As the name suggests, employ this when the enemy is down to 9 men and has no forwards.  The wing-backs are now attacking midfielders that track back to wing-back positions, ensuring they start up the pitch instead.  You end up with an 8v8 matchup on their side of the pitch, with your two centre-backs in reserve.  It's technically possible to become even more aggressive, by promoting one of your centre-backs to a defensive midfielder with a backwards-arrow (and run frequently), but I find (albeit with a very small sample size) this creates more issues because this defensive midfielder will hold the ball very often and be tempted to dribble wide.  The key to this tactic, however, is the centre of the pitch.
 
-Collectively, I will refer to this as the **standard** tactics.
+Collectively, I will refer to these as the **standard** tactics.
 
 There is one more tactic, specific to 3 at the back, with no wing-backs:
 
