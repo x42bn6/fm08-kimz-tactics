@@ -75,7 +75,7 @@ The ideal full-back is basically a cross between a central midfielder and winger
 
 The easiest way to find such a player is to find a central midfielder and retrain them to become a full-back.  The central midfielder doesn't have to be only a central midfielder (or defensive midfielder).  In fact, players that can play, say, MC, ML, AML, AMC can be retrained too, if not better than a normal MC, because they can cross.
 
-A secondary source, if rarer, is to find a player who can play all the way down the flank (e.g. DL, WBL, ML and optionally AML).  These players, because they're partly-wingers, are more likely to have the Passing, Long Shots and Crossing, as well as the defensive capability.  You'll know you have a good player if they could in theory be retrained to MC, and be decent.
+A secondary source, if rarer, is to find a player who can play all the way down the flank (e.g. DL, WBL, ML and optionally AML).  These players, because they're partly-wingers, are more likely to have the Passing, Long Shots and Crossing, as well as the defensive capability.  You'll know you have a good player in this category if they could in theory be retrained to MC, and be decent.
 
 Crossing is a nice-to-have, but not critical.  Crossing is hit-or-miss in Football Manager 2008, but the full-backs will often get into positions to cross and be tempted to do so.
 
