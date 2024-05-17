@@ -67,7 +67,7 @@ I find this tactic works best with a left-footer on the left centre-back positio
 
 ### Full-backs
 
-This is where the magic actually happens.  These players are actually the most important players in this tactic from a creative perspective.  With the right players, these players are capable of creating double-digit key passes in certain games, and get double-digit goals and assists.
+This is where the magic actually happens.  These players are actually the most important players in this tactic from a creative perspective.  With the right players, these players are capable of creating double-digit key passes in certain games, and get double-digit goals and assists over a season.
 
 The ideal player for this tactic, however, is unlikely to be generated as a full-back (or a wing-back).  These players often lack the Long Shots, and less-often the Passing to handle the role.  These players will often lack the Jumping to be converted to centre-backs, too.  Such players are sadly useless to this tactic, and should be eventually loaned-out and sold.
 
