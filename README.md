@@ -16,7 +16,7 @@ kimz tactics all have the same pattern:
 - With arrows, they can pull centre-backs out of position, for an attacking midfielder or other striker to slip into the space left behind for a free key pass into space.
 - A corner exploit is used as a cherry on the cake, turning saves into further easy shots on goal.
 
-kimz tactics are also very offensive.  Despite this, they are quite good at not conceding goals - although they are achieved by bludgeoning the opposition into submission until they stop attacking.  This tactic can and will concede goals if you are far inferior, or have the wrong players.
+kimz tactics are also very offensive.  Despite this, they are quite good at not conceding goals - although this is achieved by bludgeoning the opposition into submission until they stop attacking.  This tactic can and will concede goals if you are far inferior, or have the wrong players.
 
 kimz released several tactics.  Over the years, I believe that not all of them are necessary, nor do I have all of them available.  Here's a list of the versions they released:
 
