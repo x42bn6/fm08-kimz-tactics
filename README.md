@@ -12,7 +12,7 @@ The tactic is not quite as effective as, say, [Championship Manager 01/02's Diab
 
 kimz tactics all have the same pattern:
 
-- They involve what would be called inverted full-backs in modern-day Football Manager.  In Football Manager 2008, however, they are extremely strong, because the match engine is usually not able to exploit the space left behind, assuming you're not far weaker than your opponent.
+- They involve what would be called inverted wing-backs in modern-day Football Manager.  In Football Manager 2008, however, they are extremely strong, because the match engine is usually not able to exploit the space left behind, assuming you're not far weaker than your opponent.
 - With arrows, they can pull centre-backs out of position, for an attacking midfielder or other striker to slip into the space left behind for a free key pass into space.
 - A corner exploit is used as a cherry on the cake, turning saves into further easy shots on goal.
 
